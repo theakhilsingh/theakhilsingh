@@ -1,7 +1,7 @@
 # Hey there, I'm Akhil Singh!
 
 I'm a 3rd-year B.Tech student (EEE) transitioning into Software Development.  
-Currently learning C++, DSA, and aiming for FAANG-level jobs by Jan 2026.
+Currently learning C++, DSA.
 
 ## What I'm Working On:
 - DSA with LeetCode + Apna College C++
