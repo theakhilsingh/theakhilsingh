@@ -15,8 +15,7 @@ Currently learning C++, DSA, and aiming for FAANG-level jobs by Jan 2026.
 - Basics of System Design
 
 ## Connect with Me:
-- Instagram: [@akhilsingh_](_akranta)
-[ 
+- Instagram: [@akhilsingh_] (_akranta)
 <!---
 theakhilsingh/theakhilsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
